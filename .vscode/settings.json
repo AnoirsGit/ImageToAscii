@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools",
+    "files.associations": {
+        "set": "cpp",
+        "vector": "cpp",
+        "functional": "cpp",
+        "iosfwd": "cpp",
+        "xstring": "cpp"
+    }
+}
